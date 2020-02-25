@@ -1,2 +1,2 @@
-# Sistema-Num-rico-
+# Sistema-Numérico
 Trabajos relacionados a los Sistrmas Númericos
